@@ -10,4 +10,5 @@ Click on the time slot and enter your task.
 
 [Work Day Scheduler](https://indy6678.github.io/supreme-octo-train/)
 
+![Work Day Scheduler](./assets/images/Screenshot.png)
 
